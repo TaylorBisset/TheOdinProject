@@ -1,3 +1,6 @@
 [submodule "git_test"]
 	path = git_test
 	url = git@github.com:TaylorBisset/git_test.git
+[submodule "html-boilerplate"]
+	path = html-boilerplate
+	url = git@github.com:TaylorBisset/html-boilerplate.git
