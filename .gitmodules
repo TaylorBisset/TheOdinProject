@@ -4,3 +4,6 @@
 [submodule "html-boilerplate"]
 	path = html-boilerplate
 	url = git@github.com:TaylorBisset/html-boilerplate.git
+[submodule "test-blog-article"]
+	path = test-blog-article
+	url = git@github.com:TaylorBisset/test-blog-article.git
