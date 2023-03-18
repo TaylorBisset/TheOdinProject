@@ -7,3 +7,6 @@
 [submodule "test-blog-article"]
 	path = test-blog-article
 	url = git@github.com:TaylorBisset/test-blog-article.git
+[submodule "html-list-practice"]
+	path = html-list-practice
+	url = git@github.com:TaylorBisset/html-list-practice.git
