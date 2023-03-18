@@ -10,3 +10,6 @@
 [submodule "html-list-practice"]
 	path = html-list-practice
 	url = git@github.com:TaylorBisset/html-list-practice.git
+[submodule "odin-links-and-images"]
+	path = odin-links-and-images
+	url = git@github.com:TaylorBisset/odin-links-and-images.git
