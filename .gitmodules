@@ -13,3 +13,6 @@
 [submodule "odin-links-and-images"]
 	path = odin-links-and-images
 	url = git@github.com:TaylorBisset/odin-links-and-images.git
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = git@github.com:TaylorBisset/odin-recipes.git
